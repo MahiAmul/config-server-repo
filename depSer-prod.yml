@@ -4,7 +4,7 @@ spring:
       on-profile: 'prod'
 
 names:
-  message: "Name message production-git-refresh drpt-dept-auto"
+  message: "Name message production-git-refresh drpt-dept-auto-1"
   details:
     name: production d3
     email: production3@gmail.com
