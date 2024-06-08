@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: depSer
+  profiles:
+    active: "dev"
+
+names:
+  message: "Name message default"
+  details:
+    name: Abc d
+    email: abc@gmail.com
+  phone:
+    - 123456
+    - 234566

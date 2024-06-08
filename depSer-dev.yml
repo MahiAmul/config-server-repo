@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: 'dev'
+
+names:
+  message: "Name message dev"
+  details:
+    name: dev d
+    email: dev@gmail.com
+  phone:
+    - 123456-d
+    - 234566-d
