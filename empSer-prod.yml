@@ -1,0 +1,13 @@
+spring:
+  config:
+    activate:
+      on-profile: 'prod'
+
+names:
+  message: "Name message emp production-3"
+  details:
+    name: production d3
+    email: production3@gmail.com
+  phone:
+    - 123456-prod
+    - 234566-prod

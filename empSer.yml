@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: empSer
+  profiles:
+    active: "dev"
+
+names:
+  message: "Name message emp default"
+  details:
+    name: Abc d
+    email: abc@gmail.com
+  phone:
+    - 123456
+    - 234566
