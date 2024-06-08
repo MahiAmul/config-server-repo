@@ -1,6 +1,6 @@
 spring:
   application:
-    name: depSer
+    name: department-service-ms
   profiles:
     active: "dev"
 
