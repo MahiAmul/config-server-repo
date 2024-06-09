@@ -1,6 +1,6 @@
 spring:
   application:
-    name: "employeeservicems"
+    name: "empservice"
   profiles:
     active: "dev"
 
