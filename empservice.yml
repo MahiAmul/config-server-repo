@@ -5,7 +5,7 @@ spring:
     active: "dev"
 
 names:
-  message: "Name message emp default one"
+  message: "Name message emp change one"
   details:
     name: Abc d
     email: abc@gmail.com
